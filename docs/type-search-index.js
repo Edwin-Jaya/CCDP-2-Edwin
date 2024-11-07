@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fg.classes","l":"AppFrame"},{"p":"fg.classes","l":"ButtonPanel"},{"p":"fg.classes","l":"List"},{"p":"fg.classes","l":"Task"},{"p":"fg.classes","l":"TitleBar"},{"p":"fg.classes","l":"TodoList"}];updateSearchResults();
